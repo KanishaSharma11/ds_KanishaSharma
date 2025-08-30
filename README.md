@@ -16,17 +16,29 @@ Extreme Greed and Neutral contribute the least.
 
 ## 📂 Folder Structure
 ds_kanisha_sharma/
+
 ├── notebook_1.ipynb           # Colab notebook with full analysis
+
 ├── csv_files/
+
 │   ├── fear_greed_index.csv
+
 │   ├── historical_data.csv
+
 │   ├── merged_trades_with_sentiment.csv
+
 │   └── sentiment_summary.csv
+
 ├── outputs/
+
 │   ├── daily_trades_over_time.png
+
 │   ├── trades_by_sentiment.png
+
 ├── ds_report.pdf              # Final written summary report
+
 └── README.md                  # You are here 🚀
+
 
 ## 📊 Visualizations
 1️⃣ Number of Trades by Sentiment
@@ -42,22 +54,6 @@ Pandas – Data wrangling & merging
 Matplotlib / Seaborn – Visualizations
 
 Google Colab / Jupyter Notebook – Analysis environment
-
-## 🚀 How to Run
-
-Clone the repository:
-
-git clone https://github.com/yourusername/ds_kanisha_sharma.git
-cd ds_kanisha_sharma
-
-
-Open the notebook in Google Colab or Jupyter:
-
-notebook_1.ipynb
-
-Run all cells to reproduce the analysis.
-
-Outputs will be saved in the /outputs folder automatically.
 
 ## 📑 Report
 
