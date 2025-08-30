@@ -1,4 +1,4 @@
-#📊 Trade Activity & Market Sentiment Analysis
+# 📊 Trade Activity & Market Sentiment Analysis
 
 
 ## 🌟 Project Overview
